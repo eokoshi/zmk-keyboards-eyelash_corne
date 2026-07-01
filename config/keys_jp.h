@@ -25,7 +25,7 @@
 #define JP_FSLH  FSLH             // /
 #define JP_GRAVE LS(JP_AT)        // `
 #define JP_GT    LS(JP_DOT)       // >
-#define JP_BSLH  INT1             // (backslash)
+#define JP_BSLH  0x87             // (backslash) INT1 not working well for some reason
 #define JP_KANA  INT2             // Katakana ↔ Hiragana ↔ Rōmaji (カタカナ ↔ ひらがな ↔ ローマ字)
 #define JP_YEN   INT3             // ¥
 #define JP_HENK  INT4             // Henkan   (変換)

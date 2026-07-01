@@ -169,7 +169,7 @@
 		L2 {
 			display-name = "SYMBOL";
 			bindings = <
-&trans &kp CAPS     &kp JP_MHEN  &kp JP_ZKHK  &kp LG(SPACE)  &trans                  &trans          &kp JP_GRAVE  &kp JP_SQT   &kp JP_LPAR  &kp JP_RPAR  &kp JP_TILDE  &trans
+&trans &kp JP_CAPS     &kp JP_MHEN  &kp JP_ZKHK  &kp LG(SPACE)  &trans                  &trans          &kp JP_GRAVE  &kp JP_SQT   &kp JP_LPAR  &kp JP_RPAR  &kp JP_TILDE  &trans
 &trans &kp LA(TAB)  &kp SPACE    &kp ENTER    &kp BSPC       &kp DEL         &trans  &trans  &trans  &kp JP_EQUAL  &kp JP_DLLR  &kp JP_PERC  &kp JP_AMPS  &kp JP_PIPE   &trans
 &trans &trans       &trans       &trans       &trans         &trans   &trans         &trans          &kp JP_UNDER  &kp JP_EXCL  &kp JP_DQT   &kp JP_HASH  &trans        &trans
                                  &trans       &trans         &trans                                  &trans        &trans       &trans
