@@ -7,7 +7,6 @@
 
 #include "eyelash_corne.dtsi"
 #include <input/processors.dtsi>
-#include <input/processors/runtime-input-processor.dtsi>
 
 &left_encoder {
 	status = "okay";
